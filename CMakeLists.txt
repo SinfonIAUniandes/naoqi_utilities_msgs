@@ -26,6 +26,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/SetMoveArmsEnabled.srv"
   "srv/SetVolume.srv"
   "msg/WordConfidence.msg"
+  "msg/LedParameters.msg"
   "srv/ConfigureSpeech.srv"
   "srv/GetVolume.srv"
   "srv/PlaySound.srv"
