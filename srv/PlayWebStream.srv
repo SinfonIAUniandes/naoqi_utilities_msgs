@@ -1,0 +1,6 @@
+# Request
+string url # URL of the audio stream
+---
+# Response
+bool success
+string message

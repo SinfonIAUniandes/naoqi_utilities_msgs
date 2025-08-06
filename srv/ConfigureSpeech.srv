@@ -1,0 +1,15 @@
+# To update vocabulary, provide a non-empty list.
+string[] vocabulary
+
+# To update language, provide a non-empty string.
+string language
+
+# To update recognition settings, set 'update_recognition_settings' to true
+# and provide the desired values for the following booleans.
+bool update_recognition_settings
+bool recognition_enabled
+bool audio_expression_enabled
+bool visual_expression_enabled
+---
+bool success
+string message

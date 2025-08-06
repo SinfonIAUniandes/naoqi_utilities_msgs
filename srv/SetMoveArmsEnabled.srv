@@ -1,0 +1,7 @@
+# Request
+bool left_arm_enabled
+bool right_arm_enabled
+---
+# Response
+bool success
+string message

@@ -1,0 +1,7 @@
+# Request
+string hand # "LHand", "RHand"
+bool state # true for "open", false for "close"
+---
+# Response
+bool success
+string message

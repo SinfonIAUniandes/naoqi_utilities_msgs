@@ -1,0 +1,6 @@
+# Request
+int32 volume # 0-100
+---
+# Response
+bool success
+string message

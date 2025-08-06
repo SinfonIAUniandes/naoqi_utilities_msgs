@@ -1,0 +1,2 @@
+string word
+float32 confidence

@@ -1,0 +1,7 @@
+# Request
+string[] joint_names # e.g., "Body", "LArm"
+float32[] stiffnesses # Values between 0.0 and 1.0
+---
+# Response
+bool success
+string message

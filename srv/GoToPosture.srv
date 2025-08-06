@@ -1,0 +1,6 @@
+# Request
+string posture_name # e.g., "stand", "sit", "rest", "sitrelax"
+---
+# Response
+bool success
+string message

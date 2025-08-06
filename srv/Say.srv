@@ -1,0 +1,9 @@
+# Request
+string text
+string language
+bool animated
+bool asynchronous
+---
+# Response
+bool success
+string message

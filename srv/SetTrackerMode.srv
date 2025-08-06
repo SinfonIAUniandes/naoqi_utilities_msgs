@@ -1,0 +1,6 @@
+# Request: "stop", "start_head", "start_move"
+string mode
+---
+# Response
+bool success
+string message

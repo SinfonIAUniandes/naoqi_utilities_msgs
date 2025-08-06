@@ -1,0 +1,7 @@
+# Request
+string joint_group # e.g., "Body", "LArm"
+bool enabled
+---
+# Response
+bool success
+string message
