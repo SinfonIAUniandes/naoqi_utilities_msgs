@@ -1,5 +1,5 @@
 # Request
-string posture_name # e.g., "stand", "sit", "rest", "sitrelax"
+string posture_name # e.g., "stand", "sit", "rest", "sit-relax", "lying-back", "lying-front"
 ---
 # Response
 bool success

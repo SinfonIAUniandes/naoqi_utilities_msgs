@@ -32,6 +32,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/PlaySound.srv"
   "srv/PlayWebStream.srv"
   "srv/Say.srv"
+  "srv/PlayAnimation.srv"
   DEPENDENCIES geometry_msgs
 )
 

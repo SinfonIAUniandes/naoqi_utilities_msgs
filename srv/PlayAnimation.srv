@@ -1,0 +1,6 @@
+# Request
+string animation_name   # The name of the animation to play (e.g., "Hey_1")
+---
+# Response
+bool success
+string message
