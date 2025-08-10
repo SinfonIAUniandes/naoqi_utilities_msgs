@@ -1,0 +1,4 @@
+string type # "text", "bool", or "list"
+string content # The question or the list items, comma-separated
+---
+string input

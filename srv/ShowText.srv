@@ -1,0 +1,5 @@
+string text
+string language # "English", "Spanish", etc.
+---
+bool success
+string message

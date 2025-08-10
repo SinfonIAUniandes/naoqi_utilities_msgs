@@ -1,0 +1,4 @@
+string url
+---
+bool success
+string message
