@@ -1,4 +1,4 @@
-# Request: "stop", "start_head", "start_move"
+# Request: "stop", "start_head", "start_move", "start_body_rotation"
 string mode
 ---
 # Response
